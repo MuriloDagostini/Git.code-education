@@ -1,4 +1,4 @@
-#Instruções Utilizadas neste exemplo
+###Instruções Utilizadas neste exemplo
 
 1. Primeiro Commit
   1. Criar repositório local - git init
